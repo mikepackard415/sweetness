@@ -1,4 +1,4 @@
 ## Welcome! 
 
-I am a data professional, environmental writer, and curious human.
+Check out my projects as you please.
 
