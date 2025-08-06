@@ -1,2 +1,2 @@
-Check out my projects as you please.
+Projects and blog posts coming soon!
 
