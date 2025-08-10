@@ -1,1 +1,12 @@
-About
+About <b><i>The Sweetness Project</b></i>
+
+Hello! My name is Mike Packard. I am a data professional by trade, but by hobby and passion I am an environmentalist, writer, and musician. I created this page as a place to share these varied sides of myself with the world. If you're visiting, I hope you enjoy what you find, and regardless I'd love to hear any thoughts, comments, questions, or criticisms of my work that you may have. You can reach me by email at mike.c.packard@gmail.com.
+
+Oh, and why "the sweetness project"? I was trying to think of a title that was uniquely <i>me</i>, and the word "sweet" came to mind. My college friends started calling me "Sweet Mike" after "Dirty Mike" (a reference to [The Other Guys](https://www.youtube.com/watch?v=1FkK8ZFE7Y0)) didn't seem to fit. I've come to love the implications of "Sweet Mike" - kind heartedness, earnestness, a love of friendship. It's a nickname that calls forward the best parts of me. I now call my wife Sweet Lia and my dog Sweet Brandy.
+
+I also really enjoyed reading what Michael Pollan has to say about sweetness in his book <u>[The Botany of Desire](https://michaelpollan.com/books/the-botany-of-desire/)</u>. He describes how the term has lost some of its fullness, owing in parts to "the advent of cheap sugar, and perhaps especially cane sugar produced by slaves." But at one time:
+
+>The best land was said to be sweet; so were the most pleasing sounds, the most persuasive talk, the loveliest views, and the choicest part of any whole, as when Shakespeare calls spring the "sweet o' the year." Lent by the tongue to all the other sense organs, "sweet," in the somewhat archaic definition of the Oxford English Dictionary, is that which "affords enjoyment or gratifies desire." Like a shimmering equal sign, the word <i>sweeetness</i> denoted a reality commensurate with human desire: it stood for fulfillment.
+
+Now of course I wouldn't dare suggest that my little projects represent "the loveliest views" or anything like that. But perhaps I could view my work here as a budding fruit, seeding the world with ideas wrapped in nutritious, sugary flesh. And I suppose I might say that I myself am seeking some fulfilment, some wholeness and sense of connection resulting from an earnest attempt to share parts of myself I would otherwise keep from view. In each of these senses, it is fair to say that I am pursuing sweetness. 
+
