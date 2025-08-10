@@ -1,3 +1,3 @@
 Projects and blog posts coming soon!
 
-[About]({% link about.md})
+[About]({% link about.md %})
